@@ -1,6 +1,6 @@
 {
     "name": "hessian-proxy-xl",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "hessian proxy to make rpc calls for javascript",
     "main": "./lib/index.js",
     "scripts": {
